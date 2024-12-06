@@ -1,5 +1,5 @@
 # Pixel-Volume-Panel-Tile
-This is a simple method to add a "Volume Panel" for people who don't like to always use the volume buttons on their pixel phones.
+This is a simple method to add a "Volume Panel" for people who don't like to always use the volume buttons on their pixel phones without root.
 
 ## Steps:
 1. Download *QuickTiles* from [F-Droid](https://f-droid.org/packages/com.asdoi.quicktiles/).
